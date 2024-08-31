@@ -1,0 +1,14 @@
+.buttonContainer {
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttonContainer > button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 2px solid rgb(9, 125, 208);
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(96, 150, 252);
+}
